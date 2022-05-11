@@ -4,6 +4,7 @@
   "description": "Api do projeto react Todo-list, para armazenar as listas de tarefas.",
   "main": "index.js",
   "scripts": {
+    "start": "node ./server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
